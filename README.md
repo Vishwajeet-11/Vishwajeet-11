@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet Bharadia</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Computer Science Undergrad</h3>
+I’m a Computer Science undergrad.
+I’m currently working on DBMS/WEB-DEV./SYSTEM ARCHs/NETWORKING and stuff. 
 
 - 💬 Ask me about/help me with **React, Firebase, HTML, CSS, JavaScript, C, C++, Java, Python, ML, DS, CP**
 
