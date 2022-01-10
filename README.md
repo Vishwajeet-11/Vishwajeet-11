@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vishwajeet Bharadia</h1>
+<h1 align="center">Hi 👋, I'm Vishwajeet</h1>
 <h3 align="center">A Computer Science Undergrad</h3>
  currently working on DBMS/WEB-DEV./SYSTEM ARCHs/NETWORKING and stuff. 
 
