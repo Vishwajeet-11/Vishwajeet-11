@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwajeet</h1>
+![code](https://user-images.githubusercontent.com/89924712/150038917-4d5de353-0ae0-41a5-962d-fabd8b929012.gif)
 <h3 align="center">A Computer Science Undergrad</h3>
  currently working on DBMS/WEB-DEV./SYSTEM ARCHs/NETWORKING and stuff. 
 
