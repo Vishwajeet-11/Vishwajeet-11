@@ -10,6 +10,7 @@
 
 ## 💼 Experience
 
+- **Full Stack Developer(Backend-Focused)** at Zummit Infolabs (Jul 2024 - Current)
 - **Node.js Developer Intern** at Creative Thoughts Informatics (Feb 2024 - May 2024)
 - **Node.js Developer Intern** at Rishi Agastya Technologies (June 2023 - Nov 2023)
 - **Web Developer** at DeepShikha Logistics (May 2022 - July 2022)
