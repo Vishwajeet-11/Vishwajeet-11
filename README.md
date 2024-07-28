@@ -4,7 +4,7 @@
 
 ## 🔧 Technical Skills
 
-- **Languages:** Java, JavaScript, C/C++, SQL (Postgres), HTML/CSS
+- **Languages:** Java, JavaScript, C/C++, SQL, NoSQL (Postgres), HTML/CSS
 - **Frameworks & Libraries:** Node.js, React, JUnit, Material-UI, FastAPI, Spring Boot, Express, Socket.io, Mongoose, Sequelize, Bcrypt, Joi, Jest, Swagger
 - **Developer Tools:** Git, Docker, TravisCI, MongoDB, VS Code, Visual Studio, Postman, Babel, Netlify, NPM
 
