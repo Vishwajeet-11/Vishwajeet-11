@@ -17,7 +17,7 @@
 
 ## 📚 Education
 
-- **Bachelor's Degree in Technology (Computer Science)** from the Institute of Engineering and Science, Indore, Madhya Pradesh (Jul 2020 - Aug 2024)
+- **B.Tech(Computer Science)** from the Institute of Engineering and Science, Indore, Madhya Pradesh (Jul 2020 - Aug 2024)
 
 ## 🚀 Notable Projects
 
