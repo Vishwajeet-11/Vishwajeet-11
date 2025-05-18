@@ -4,15 +4,16 @@
 
 ## 🔧 Technical Skills
 
-- **Languages:** Java, JavaScript, C/C++, SQL, NoSQL, HTML/CSS
-- **Frameworks & Libraries:** Node.js, React, JUnit, Material-UI, FastAPI, Spring Boot, Express, Socket.io, Mongoose, Sequelize, Bcrypt, Joi, Jest, Swagger
+- **Languages:** JavaScript, **TypeScript** C/C++, SQL, NoSQL, HTML/CSS
+- **Frameworks & Libraries:** **Node.js**, Redis, Kafka, BullMQ, Express, Socket.io, Mongoose, Sequelize, Bcrypt, Joi, Jest, Swagger
 - **Developer Tools:** Git, Docker, TravisCI, MongoDB, VS Code, Visual Studio, Postman, Babel, Netlify, NPM
 
 ## 💼 Experience
 
-- **Full Stack Developer(Backend-Focused)** at Zummit Infolabs (Jul 2024 - Current)
-- **Node.js Developer** at Creative Thoughts Informatics (Feb 2024 - May 2024)
-- **Node.js Developer** at Rishi Agastya Technologies (June 2023 - Nov 2023)
+- **Backend Engineer** at Unanime Planet (SEP 2024 - CURRENT) 
+- **Backend Engineer** at Zummit Infolabs (Jul 2024 - SEP 2024)
+- **Backend Engineer** at Creative Thoughts Informatics (Feb 2024 - May 2024)
+- **Backend Engineer** at Rishi Agastya Technologies (June 2023 - Nov 2023)
 - **Web Developer** at DeepShikha Logistics (May 2022 - July 2022)
 
 ## 📚 Education
