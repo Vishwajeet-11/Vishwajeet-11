@@ -22,6 +22,7 @@
 
 ## 🚀 Notable Projects
 
+- **Bridg - Tap. Connect. Grow :** CRM Integrated Visiting Card services
 - **Hospital Management System:** Built with MERN Stack and Docker
 - **Real-Time Collaborative Code Editor:** Developed using MERN Stack and WebSockets
 
