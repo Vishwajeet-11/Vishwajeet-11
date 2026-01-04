@@ -10,7 +10,8 @@
 
 ## 💼 Experience
 
-- **Backend Engineer** at Unanime Planet (SEP 2024 - CURRENT) 
+- **Backend Engineer** at Idea Usher (SEP 2025 - CURRENT) 
+- **Backend Engineer** at Unanime Planet (SEP 2024 - SEP 2025) 
 - **Backend Engineer** at Zummit Infolabs (Jul 2024 - SEP 2024)
 - **Backend Engineer** at Creative Thoughts Informatics (Feb 2024 - May 2024)
 - **Backend Engineer** at Rishi Agastya Technologies (June 2023 - Nov 2023)
@@ -18,11 +19,11 @@
 
 ## 📚 Education
 
-- **B.Tech(Computer Science)** from the Institute of Engineering and Science, Indore, Madhya Pradesh (Jul 2020 - Aug 2024)
+- **B.Tech(Computer Science)**  (Jul 2020 - Aug 2024)
 
 ## 🚀 Notable Projects
 
-- **Hospital Management System:** Built with MERN Stack and Docker
+- **UpRides** Microservices based Ride Hailing Application
 - **Real-Time Collaborative Code Editor:** Developed using MERN Stack and WebSockets
 
 ## 📫 Contact Me
