@@ -8,15 +8,6 @@
 - **Frameworks & Libraries:** **Node.js**, Redis, Kafka, BullMQ, Express, Socket.io, Mongoose, Sequelize, Bcrypt, Joi, Jest, Swagger
 - **Developer Tools:** Git, Docker, TravisCI, MongoDB, VS Code, Visual Studio, Postman, Babel, Netlify, NPM
 
-## 💼 Experience
-
-- **Backend Engineer** at Idea Usher (SEP 2025 - CURRENT) 
-- **Backend Engineer** at Unanime Planet (SEP 2024 - SEP 2025) 
-- **Backend Engineer** at Zummit Infolabs (Jul 2024 - SEP 2024)
-- **Backend Engineer** at Creative Thoughts Informatics (Feb 2024 - May 2024)
-- **Backend Engineer** at Rishi Agastya Technologies (June 2023 - Nov 2023)
-- **Web Developer** at DeepShikha Logistics (May 2022 - July 2022)
-
 ## 📚 Education
 
 - **B.Tech(Computer Science)**  (Jul 2020 - Aug 2024)
